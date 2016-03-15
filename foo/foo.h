@@ -3,4 +3,6 @@
 
 int foo(void);
 
+int good(void);
+
 #endif

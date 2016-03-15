@@ -9,3 +9,11 @@ int
 
     return 0;
 }
+
+int
+    good(void)
+{
+    printf("good\n");
+
+    return 0;
+}
