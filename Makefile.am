@@ -1,3 +1,3 @@
 SUBDIRS = \
-	echoworld \
-	libfoo
+	libfoo \
+	echoworld

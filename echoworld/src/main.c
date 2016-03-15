@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include <foo/foo.h>
+
 #include <echoworld/echoworld.h>
 
 int
@@ -8,6 +10,8 @@ int
     printf("main()\n");
 
     echoworld();
+
+    foo();
 
     return 0;
 }
