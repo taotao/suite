@@ -5,7 +5,7 @@
 int
     echoworld(void)
 {
-    printf("Hello World\n");
+    printf("Echo Hello World\n");
 
     return 0;
 }
