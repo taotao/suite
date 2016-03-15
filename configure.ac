@@ -11,6 +11,7 @@ AC_CONFIG_FILES([Makefile])
 
 AC_CONFIG_SUBDIRS([
   echoworld
+  libfoo
 ])
 
 AC_OUTPUT
